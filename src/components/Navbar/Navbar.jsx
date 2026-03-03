@@ -7,9 +7,9 @@ function Navbar() {
 
                     <ul className="flex">
                         <li><a href="#">Home</a></li>
-                        <li> <a href="#">About us</a></li>
-                        <li> <a href="#">Process</a></li>
-                        <li> <a href="#">Contact us</a></li>
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Process</a></li>
+                        <li><a href="#">Contact us</a></li>
                     </ul>
                 </nav>
             </header>
