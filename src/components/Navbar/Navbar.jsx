@@ -1,9 +1,18 @@
 function Navbar() {
     return (
         <>
-            <div>
-                <h1>navbar</h1>
-            </div>
+            <header>
+                <nav className="flex">
+                    <a href="#">Gr<span className="text-orange-600">O</span>cify</a>
+
+                    <ul className="flex">
+                        <li><a href="#">Home</a></li>
+                        <li> <a href="#">About us</a></li>
+                        <li> <a href="#">Process</a></li>
+                        <li> <a href="#">Contact us</a></li>
+                    </ul>
+                </nav>
+            </header>
         </>
     )
 
