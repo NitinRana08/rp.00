@@ -2,7 +2,7 @@ function Navbar() {
     return (
         <>
             <header>
-                <nav className="flex">
+                <nav className="flex bg-red-600 justify-between">
                     <a href="#">Gr<span className="text-orange-600">O</span>cify</a>
 
                     <ul className="flex">
